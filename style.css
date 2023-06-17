@@ -57,6 +57,7 @@ nav {
   color: var(--clr-white);
   text-decoration: none;
   text-transform: lowercase;
+  font-weight: 600;
 }
 
 .menu > li {
