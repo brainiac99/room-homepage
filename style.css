@@ -234,7 +234,7 @@ p {
   margin-bottom: 2.4rem;
 }
 
-@media (max-width: 375px) {
+@media (max-width: 500px) {
   .section-main {
     grid-template-columns: 1fr;
     grid-template-rows: auto;
